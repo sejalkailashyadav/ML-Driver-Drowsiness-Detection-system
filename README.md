@@ -17,7 +17,6 @@ Welcome to Driver Drowsiness Detector 👋
 - Github: [@yadavsejal19](https://github.com/yadavsejal19)
 
 
-
 # Documentation
 
 
